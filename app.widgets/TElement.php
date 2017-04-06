@@ -3,10 +3,11 @@
 * Classe TElement
 * Classe para abstralçai de tags HTML
 */
-class TElemnet
+class TElement
 {
 	private $name;
 	private $properties;
+	private $children;
 	/**
 	 * Método Construtor
 	 * @param [String] $nameTag [O nome da tag a ser criada]
@@ -23,7 +24,7 @@ class TElemnet
 	 */
 	public function __set( $name, $value )
 	{
-		$this->propriedade[$name] = $value;
+		$this->properties[$name] = $value;
 	}
 	/**
 	 * Método add()
@@ -68,7 +69,7 @@ class TElemnet
 				}
 				else if ( is_string( $child ) OR is_numeric( $child ) )
 				{
-					echo $chid;
+					echo $child;
 				}
 			}
 		}
