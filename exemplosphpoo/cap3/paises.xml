@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pais>
+	<nome> Brasil </nome>
+	<idioma> Português </idioma>
+	<capital> Brasília </capital>
+	<moeda> Real (R$) </moeda>
+	<prefixo> +55 </prefixo>
+</pais>

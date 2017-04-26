@@ -1,0 +1,26 @@
+DELETE FROM produto;
+
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('Pendrive 512Mb','10.0','20.0','40.0','0000000001','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('HD 120 GB','20.0','100.0','180.0','0000000002','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('SD CARD  512MB','4.0','20.0','35.0','0000000003','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('SD CARD 1GB MINI','3.0','28.0','40.0','0000000004','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('CAM. FOTO I70 PLATA','5.0','600.0','900.0','0000000005','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('CAM. FOTO DSC-W50 PLATA','4.0','400.0','700.0','0000000006','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('WEBCAM INSTANT VF0040SP','4.0','50.0','80.0','0000000007','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('CPU 775 CEL.D 360  3.46 512K 533M','10.0','140.0','300.0','0000000008','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('FILMADORA DCR-DVD108','2.0','900.0','1400.0','0000000009','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('HD IDE  80G 7.200','8.0','90.0','160.0','0000000010','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('IMP LASERJET 1018 USB 2.0','4.0','200.0','300.0','0000000011','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('MEM DDR  512MB 400MHZ PC3200','10.0','60.0','100.0','0000000012','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('MEM DDR2 1024MB 533MHZ PC4200','5.0','100.0','170.0','0000000013','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('MON LCD 19 920N PRETO','2.0','500.0','800.0','0000000014','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('MOUSE USB OMC90S OPT.C/LUZ','10.0','20.0','40.0','0000000015','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('NB DV6108 CS 1.86/512/80/DVD+RW ','2.0','1400.0','2500.0','0000000016','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('NB N220E/B DC 1.6/1/80/DVD+RW ','3.0','1800.0','3400.0','0000000017','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('CAM. FOTO DSC-W90 PLATA','5.0','600.0','1200.0','0000000018','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('CART. 8767 NEGRO','20.0','30.0','50.0','0000000019','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('CD-R TUBO DE 100 52X 700MB','20.0','30.0','60.0','0000000020','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('MEM DDR 1024MB 400MHZ PC3200','7.0','80.0','150.0','0000000021','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('MOUSE PS2 A7 AZUL/PLATA','20.0','5.0','15.0','0000000022','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('SPEAKER AS-5100 HOME PRATA','5.0','100.0','180.0','0000000023','2015-01-01','N');
+INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES ('TEC. USB ABNT AK-806','14.0','20.0','40.0','0000000024','2015-01-01','N');
